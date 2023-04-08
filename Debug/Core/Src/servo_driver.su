@@ -1,0 +1,14 @@
+../Core/Src/servo_driver.c:22:6:ServoDriverInit	24	static
+../Core/Src/servo_driver.c:42:6:ServoDriverSetPWMFreq	32	static
+../Core/Src/servo_driver.c:85:6:ServoDriverReset	16	static
+../Core/Src/servo_driver.c:99:6:ServoDriverSleep	24	static
+../Core/Src/servo_driver.c:118:6:ServoDriverWakeup	24	static
+../Core/Src/servo_driver.c:137:9:ServoDriverReadPrescale	16	static
+../Core/Src/servo_driver.c:151:5:ServoDriverGetPWM	40	static
+../Core/Src/servo_driver.c:169:6:ServoDriverSetOnOff	40	static
+../Core/Src/servo_driver.c:194:6:ServoDriverSetPWM	24	static
+../Core/Src/servo_driver.c:236:6:ServoDriverWriteMicroseconds	40	static
+../Core/Src/servo_driver.c:269:6:ServoDriverSetExtClk	24	static
+../Core/Src/servo_driver.c:297:6:ServoDriverSetOutputMode	24	static
+../Core/Src/servo_driver.c:310:6:I2CWriteReg8	32	static
+../Core/Src/servo_driver.c:319:9:I2CReadReg8	40	static

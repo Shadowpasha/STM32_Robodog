@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:94:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:146:6:MainFunc	24	static
+../Core/Src/freertos.c:284:6:CalcFunc	16	static
+../Core/Src/freertos.c:310:6:ServoFunc	16	static
+../Core/Src/freertos.c:335:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/freertos.c:350:6:HAL_I2C_MasterRxCpltCallback	16	static

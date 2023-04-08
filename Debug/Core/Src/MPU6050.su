@@ -1,0 +1,5 @@
+../Core/Src/MPU6050.c:11:6:MPUInit	48	static
+../Core/Src/MPU6050.c:79:6:MPUSetOffsets	24	static
+../Core/Src/MPU6050.c:91:6:MPUReqAccGyro	32	static
+../Core/Src/MPU6050.c:100:6:MPUHandlebuff	16	static
+../Core/Src/MPU6050.c:120:6:CompPitchRoll	32	static
